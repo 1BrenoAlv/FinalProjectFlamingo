@@ -8,7 +8,7 @@ const Header = () => {
                     <div className="col-auto">
                         <a href="/" className="text-decoration-none">
                             <h1 className="h5 mb-0">
-                                Obama<span className="text-primary">Tech</span>
+                                Breno<span className="text-primary">Cursos</span>
                             </h1>
                         </a>
                     </div>
